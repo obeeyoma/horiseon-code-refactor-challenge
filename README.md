@@ -2,7 +2,7 @@
 A project to refactor the code for an existing website.
 
 ## Description
-Horiseon Code Refactor Challenge reviews and refactors the code of the Horiseon website to improve web accessibility standards so that the website is more accessible and optimized for search engines.
+Horiseon Code Refactor Challenge reviews and refactors the code of the Horiseon website to meet web accessibility standards so that the website is more accessible and optimized for search engines.
 
 This project improves web accessibility through:
 
@@ -18,4 +18,5 @@ This project improves web accessibility through:
 ## Screenshot
 ![Horiseon website homepage](assets/images/horiseon-website-screenshot.png)
 
-
+## Link to website
+[Horiseon Code Refactor Challenge]()
