@@ -19,4 +19,4 @@ This project improves web accessibility through:
 ![Horiseon website homepage](assets/images/horiseon-website-screenshot.png)
 
 ## Link to website
-[Horiseon Code Refactor Challenge]()
+[Horiseon Code Refactor Challenge](https://obeeyoma.github.io/horiseon-code-refactor-challenge/#social-media-marketing)
